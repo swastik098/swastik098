@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swastik Giri
 ====================================================================================================================================
 
-I am a Full Stack developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Java and React Native. I also have experience working with Web scrapping ,API ,Node.Js and React. Take a look at my work or get in touch!
+I am a Full Stack developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Java and React Native. I also have experience working with Web scrapping, API, Node.Js, and React. Take a look at my work or get in touch!
 
 * 🌍  I'm based in Bhubaneswar
 * ✉️  You can contact me at [swastikranjan4@gmail.com](mailto:swastikranjan4@gmail.com)
@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/swastik098?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/swastik098" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/swastikkk77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/swastik-ranjan-giri-5b785a1a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/swastikkk77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/swastik098" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/swastikkk_77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/swastik-ranjan-giri-5b785a1a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/swastikkk77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
