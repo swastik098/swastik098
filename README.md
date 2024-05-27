@@ -43,8 +43,6 @@ src="https://img.shields.io/github/followers/swastik098?logo=github&style=for-th
 
 <a href="http://www.github.com/swastik098"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&stroke=0891b2&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=0891b2&currStreakLabel=ef4444&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-/*<a href="http://www.github.com/swastik098"><img src="https://activity-graph.herokuapp.com/graph?username=swastik098&bg_color=0f172a&color=0891b2&line=84cc16&point=0891b2&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>*/
-
 <a href="https://github.com/swastik098" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&langs_count=10&title_color=ef4444&text_color=0891b2&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
