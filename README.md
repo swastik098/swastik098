@@ -1,50 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swastik Giri
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Swastik Giri</h1>
+<h3 align="center">Full Stack Developer | React Native | Node.js | Java | Web Automation</h3>
 
-I am a Full Stack developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Java and React Native. I also have experience working with Web scrapping, API, Node.Js, and React. Take a look at my work or get in touch!
-
-* 🌍  I'm based in Bhubaneswar
-* ✉️  You can contact me at [swastikranjan4@gmail.com](mailto:swastikranjan4@gmail.com)
-
-<a href="https://www.twitter.com/swastikkk77" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/swastikkk77?logo=twitter&style=for-the-badge&color=84cc16&labelColor=0f172a"
-/></a><a href="https://www.github.com/swastik098" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/swastik098?logo=github&style=for-the-badge&color=84cc16&labelColor=0f172a" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/183505incg/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="300" />
 </p>
 
+---
 
-### Socials
+### 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/swastik098" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/3d-fluency/94/github.png" width="32" height="32" /></a> <a href="http://www.instagram.com/swastikkk_77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/swastik-ranjan-giri-5b785a1a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/swastikkk77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I'm a **Full Stack Developer** with strong experience in building scalable web and mobile applications.  
+I specialize in **JavaScript, React, React Native, Node.js, and Java**, and I also work with **Web Scraping, APIs, and Automation**.
 
-### Badges
+I enjoy building real-world products that solve actual problems, especially in **education tech, automation, and data systems**.
 
-<b>My GitHub Stats</b>
+- 🌍 Based in **Bhubaneswar, India**
+- ✉️ Reach me at **swastikranjan4@gmail.com**
+- 💼 Open to **freelance, remote, and full-time opportunities**
 
-<a href="http://www.github.com/swastik098"><img src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=0891b2&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="swastik098's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/swastik098"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&stroke=0891b2&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=0891b2&currStreakLabel=ef4444&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+### 🛠️ Tech Stack & Skills
 
-<a href="https://github.com/swastik098" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&langs_count=10&title_color=ef4444&text_color=0891b2&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" />
+</p>
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/swastikran7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### 📱 What I Work On
+
+- **React Native Apps** – Performance optimized, offline-first, production ready
+- **Backend APIs** – Node.js, Express, MongoDB, MySQL
+- **Automation & Scraping** – Puppeteer, WhatsApp automation, data pipelines
+- **Admin Panels & Dashboards** – Role-based systems, reports, analytics
+- **Education Tech Systems** – Assessments, syncing, hierarchical data models
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.github.com/swastik098" target="_blank">
+    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/swastik-ranjan-giri-5b785a1a0" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/>
+  </a>
+  <a href="http://www.instagram.com/itsswastikkk" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40"/>
+  </a>
+  <a href="https://www.twitter.com/swastikkk77" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/swastikran7">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
+  </a>
+</p>
+
+---
+
+> **"I build things that actually get used."**  
+> Clean code, scalable systems, and no shortcuts.
