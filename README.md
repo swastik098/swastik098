@@ -40,15 +40,18 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swastik098&theme=radical&hide_border=true&background=0D1117&fire=58A6FF&ring=58A6FF)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=dark&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&theme=dark" alt="swastik098" />
+</p>
 
 </div>
 
