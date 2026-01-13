@@ -42,19 +42,12 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" /> |
+| ------------- | ------------- |
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=dark&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&theme=dark" alt="swastik098" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=swastik098&theme=radical&hide_border=true)
 
 </div>
-
 ---
 
 ## 🚀 **Featured Projects**  
