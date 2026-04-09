@@ -1,21 +1,5 @@
 <div align="center">
-  <!-- REPLACEMENT 1: Working wave banner using SVG -->
-  <svg width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0a0f1a;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#1a2332;stop-opacity:1" />
-      </linearGradient>
-      <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#58A6FF" />
-        <stop offset="100%" style="stop-color:#79C0FF" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="250" fill="url(#waveGrad)" />
-    <text x="50%" y="45%" font-size="80" font-family="'Segoe UI', Arial, sans-serif" fill="url(#textGrad)" text-anchor="middle" font-weight="bold">Swastik Giri</text>
-    <path d="M0,200 Q50,185 100,200 T200,200 T300,200 T400,200 T500,200 T600,200 T700,200 T800,200 T900,200 T1000,200 L1000,250 L0,250 Z" fill="#0D1117" opacity="0.6"/>
-    <path d="M0,210 Q75,195 150,210 T300,210 T450,210 T600,210 T750,210 T900,210 T1000,210 L1000,250 L0,250 Z" fill="#0D1117" opacity="0.9"/>
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Swastik%20Giri&fontSize=80&animation=fadeIn&fontAlignY=38&color=0D1117" width="100%" />
   
   ## 🚀 Senior Full-Stack Engineer | Mobile & Web Architect
   **Engineering scalable systems and high-performance mobile applications**
@@ -33,17 +17,6 @@
 ### 📊 System Diagnostics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="100%" />
 </div>
 
