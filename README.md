@@ -1,117 +1,88 @@
-# 👨‍💻 Swastik Giri  
-**Full Stack Developer | Mobile & Web Specialist**  
-
-📍 Bhubaneswar, India  
-📧 swastikranjan4@gmail.com  
-🌐 [Portfolio](https://swastikgiri.vercel.app/)  
-
----
-
-## 🛠️ **Tech Stack**  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **Mobile**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=250&section=header&text=Swastik%20Giri&fontSize=90&animation=twinkling&fontAlignY=38" width="100%" />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" /> |
-| ------------- | ------------- |
+  ## ⚡ Full-Stack Architect & Mobile Specialist
+  **Building the future with code from Bhubaneswar, India**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=swastik098&theme=radical&hide_border=true)
+  [🌐 Portfolio](https://swastikgiri.vercel.app/) • [🔗 LinkedIn](https://linkedin.com/in/swastik-ranjan-giri-5b785a1a0) • [🐦 Twitter](https://twitter.com/swastikkk77) • [📧 Email](mailto:swastikranjan4@gmail.com)
 
-</div>
----
+  <br />
 
-## 🚀 **Featured Projects**  
-
-### **🎓 NIPUN Odisha App** – *Education Management System*  
-> **Stack:** React Native · Node.js · MongoDB · Socket.io  
-> **Key Features:**  
-> - Real-time student assessment and monitoring  
-> - Offline-first architecture with sync capabilities  
-> - Role-based access control (Admin/Teacher/Parent)  
-> - Scalable backend handling 10,000+ concurrent users  
-> - Real-time notifications and analytics dashboard  
-
-### **🤖 Web Automation Agent**  
-> **Tech:** Puppeteer · Playwright · Python · Node.js  
-> **Impact:**  
-> - Automated repetitive web workflows and data extraction  
-> - Reduced manual effort by 40+ hours per week  
-> - Custom scripting for dynamic website interactions  
-> - Error handling and retry mechanisms  
-
-### **📱 Mobile Performance Optimizer**  
-> **Tech:** React Native · Flipper · Profiling Tools  
-> **Results:**  
-> - Reduced app load time by 65%  
-> - Optimized memory usage and bundle size  
-> - Improved Play Store rating from 3.8 to 4.7 stars  
-> - Implemented advanced caching strategies  
-
----
-
-## 📫 **Connect With Me**  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swastik-ranjan-giri-5b785a1a0)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swastik098)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swastikkk77)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastikranjan4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://swastikgiri.vercel.app/)
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=React+Native+Evangelist;Full+Stack+Developer;Cloud+Solutions+Architect;Automation+Engineer)
 </div>
 
 ---
 
-## 📌 **Currently Working On**  
+### 📊 **Developer Dashboard**
 
-- 🔭 **Scalable Microservices** with Kubernetes & gRPC  
-- 🤖 **AI-Enhanced Development Tools** for code generation  
-- 📱 **Open Source React Native Components** library  
-- 🚀 **Learning Go & WebAssembly** for high-performance applications  
-- ☁️ **AWS Solutions Architect** certification preparation  
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=swastik098&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastik098&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4169E1" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik098&theme=radical&hide_border=true&stroke=4169E1&ring=4169E1&fire=4169E1" width="100%" />
+</div>
 
 ---
 
-> **💡 Philosophy:** *"Building scalable systems and impactful solutions through clean code, innovative thinking, and continuous learning."*  
+### 🛠️ **The Tech Vault**
+
+| **Layer** | **Technologies & Tools** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&style=flat-square) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&style=flat-square) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) |
+| **Cloud & Ops** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square) |
+
+---
+
+### 📡 **Live System Logs**
+
+#### 🕒 **Latest Activity**
+- 🚀 Shipped new features to **NipunOdishaSupport** mobile app.
+- 🔧 Optimized MongoDB aggregation pipelines for high-traffic endpoints.
+- 📝 Writing a technical deep-dive on **React Native bridge performance**.
+- ⭐ Explored **WebAssembly** for high-performance edge computing.
+
+#### 🎵 **Current Frequency**
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?uid=your_spotify_id)](https://open.spotify.com/user/your_id)
+*(Connect your Spotify ID to show what you're listening to while coding!)*
+
+---
+
+### 🌟 **Milestone Projects**
+
+> [!TIP]
+> **NIPUN Odisha App**
+> A massive scale educational platform built for high reliability.
+> - **Impact:** Optimized for 10k+ concurrent users and offline-first usage.
+> - **Code:** React Native + Node.js Microservices.
+
+> [!IMPORTANT]
+> **Web Automation Engine**
+> Custom enterprise-grade scraping and task automation.
+> - **Impact:** Saved 40+ manual labor hours weekly for data teams.
+
+---
+
+### 🏆 **Github Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swastik098&theme=radical&no-frame=true&column=4" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 <div align="right">
-
-*Last Updated: February 2024*
-
+  <sub>Visitor Count: <img src="https://komarev.com/ghpvc/?username=swastik098&color=4169E1&style=flat-square" /></sub>
 </div>
-
----
-
-**Visitor Count:**  
-![Visitor Count](https://komarev.com/ghpvc/?username=swastik098&color=blueviolet&style=flat)
