@@ -96,7 +96,14 @@
 
 ### 🏆 Engineering Milestones
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swastik098&theme=dark&no-frame=true&column=4&margin-w=15&background=0D1117" />
+  <img src="https://img.shields.io/badge/🚀_Senior_Engineer-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱_Mobile_Architect-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Native-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Automation_Expert-58A6FF?style=for-the-badge" />
+  <br />
+  <img src="https://img.shields.io/badge/⭐_50K+_Contributions-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔧_100+_Repos-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥_50+_Collaborators-58A6FF?style=for-the-badge" />
 </div>
 
 ---
@@ -113,7 +120,5 @@
 <br />
 
 <div align="right">
-  <code><b>System Status:</b> Active</code><br />
-  <code><b>Last Ping:</b> April 2026</code><br />
   <img src="https://komarev.com/ghpvc/?username=swastik098&color=58A6FF&style=flat-square&label=TRAFFIC_LOGS" />
 </div>
